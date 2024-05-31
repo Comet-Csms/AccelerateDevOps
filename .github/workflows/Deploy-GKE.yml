@@ -1,6 +1,9 @@
 name: Deploy-GKE
 
-on: [workflow_dispatch]
+on:
+  push:
+    branches:
+      - main
 
 env:
   GKE_PROJECT: aiosshsj
