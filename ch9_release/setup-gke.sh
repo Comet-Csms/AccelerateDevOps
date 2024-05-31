@@ -5,12 +5,12 @@
 # See https://console.cloud.google.com/projectselector2/home/dashboard
 
 # Set parameters
-export GKE_PROJECT=valid-octagon-330106
-export GKE_CLUSTER=xyz-demo-cluster
-export GKE_APP_NAME=xyz-demo-shop
-export GKE_SERVICE=xyz-service
-export GKE_SERVICE_ACCOUNT=xyz-serviceaccount
-export GKE_DEPLOYMENT_NAME=xyz-demo-shop-deployment
+export GKE_PROJECT=liquid-polygon-404600
+export GKE_CLUSTER=hsj-demo-cluster
+export GKE_APP_NAME=hsj-demo-shop
+export GKE_SERVICE=hsj-service
+export GKE_SERVICE_ACCOUNT=hsj-serviceaccount
+export GKE_DEPLOYMENT_NAME=hsj-demo-shop-deployment
 
 # Get a list of regions:
 # $ gcloud compute regions list
