@@ -17,8 +17,8 @@ export GKE_DEPLOYMENT_NAME=hsj-demo-shop-deployment
 #
 # Get a list of zones:
 # $ gcloud compute zones list
-export GKE_REGION=europe-west3
-export GKE_ZONE=europe-west3-a
+export GKE_REGION=asia-northeast3
+export GKE_ZONE=asia-northeast3-a
 
 # Just a placeholder for the first deployment
 export GITHUB_SHA=Test
