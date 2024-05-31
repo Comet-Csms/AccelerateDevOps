@@ -5,7 +5,7 @@
 # See https://console.cloud.google.com/projectselector2/home/dashboard
 
 # Set parameters
-export GKE_PROJECT=liquid-polygon-404600
+export GKE_PROJECT=aiosshsj
 export GKE_CLUSTER=hsj-demo-cluster
 export GKE_APP_NAME=hsj-demo-shop
 export GKE_SERVICE=hsj-service
